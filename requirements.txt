@@ -1,0 +1,4 @@
+# 包都是用 conda 安装的，不再指明版本
+python==3.9.18
+python-dotenv
+openai
